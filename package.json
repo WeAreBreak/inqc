@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The inqc provides CLI for the js-compiler with all official modules included (InqScript, CellScript, JS# and experimental features).",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,5 +25,12 @@
   "bugs": {
     "url": "https://github.com/WeAreBreak/inqc/issues"
   },
-  "homepage": "https://github.com/WeAreBreak/inqc"
+  "homepage": "https://github.com/WeAreBreak/inqc",
+  "dependencies": {
+    "cellscript": "^0.1.0",
+    "inqscript": "^0.8.0",
+    "js-compiler": "^1.0.1",
+    "js-experimental": "^0.1.0",
+    "jssharp": "^0.8.0"
+  }
 }
