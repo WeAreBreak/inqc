@@ -1,0 +1,28 @@
+{
+  "name": "inqc",
+  "version": "1.0.0",
+  "description": "The inqc provides CLI for the js-compiler with all official modules included (InqScript, CellScript, JS# and experimental features).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ajuhos@github.com/WeAreBreak/inqc.git"
+  },
+  "keywords": [
+    "javascript",
+    "inqscript",
+    "cellscript",
+    "jssharp",
+    "compiler",
+    "cli",
+    "ecmascript"
+  ],
+  "author": "We Are Break <ajuhos@we-are-break.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeAreBreak/inqc/issues"
+  },
+  "homepage": "https://github.com/WeAreBreak/inqc"
+}
